@@ -1,0 +1,46 @@
+<html>
+    <head>
+
+<style>
+    .backg {
+        width: 100%;
+        height: 100vh;
+        background-size: inherit;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+    }
+    
+    .hh2 {
+        text-align: center;
+        color: aliceblue;
+        font-family: cursive;
+    }
+    
+    .hh3 {
+        margin: 20px;
+        color: aliceblue;
+    }
+    
+    .imgg {
+        float: left;
+        margin: 20px;
+        align-content: center;
+    }
+    
+    .ab {
+        font-family: cursive;
+        color: aliceblue;
+        font-size: 16px;
+        text-indent: 2px;
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+    
+    .yearr {
+        text-align: center;
+        color: aliceblue;
+        font-family: cursive;
+        font-size: small;
+    }
+</style>
+</head></html>
